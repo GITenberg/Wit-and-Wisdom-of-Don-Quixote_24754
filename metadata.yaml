@@ -1,0 +1,39 @@
+_repo: Wit-and-Wisdom-of-Don-Quixote_24754
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cervantes Saavedra, Miguel de
+    aliases:
+    - Cervantes, Miguel de
+    - Saavedra, Miguel de Cervantes
+    - Cervantes, Michel
+    - De Cervantes Saavedra, Miguel
+    birthdate: 1547
+    deathdate: 1616
+    gutenberg_agent_id: '505'
+    url: http://www.gutenberg.org/2009/agents/505
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
+    - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
+description: ''
+gutenberg_bookshelf:
+- Humor
+- Best Books Ever Listings
+gutenberg_issued: '2008-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24754'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Proverbs, Spanish'
+- !lcsh 'Cervantes Saavedra, Miguel de, 1547-1616 -- Quotations'
+- !lcsh 'Cervantes Saavedra, Miguel de, 1547-1616 -- Translations into English'
+- !lcc 'PQ'
+title: Wit and Wisdom of Don Quixote
+url: http://www.gutenberg.org/ebooks/24754
