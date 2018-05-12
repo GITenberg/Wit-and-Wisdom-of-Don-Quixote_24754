@@ -19,6 +19,8 @@ creator:
     - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
     - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24754#Wit-and-Wisdom-of-Don-Quixote
 gutenberg_bookshelf:
 - Humor
 - Best Books Ever Listings
